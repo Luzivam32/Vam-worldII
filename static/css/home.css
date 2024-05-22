@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/**
+Divis
+*/
+div{
+    padding:5px;
+    border: 1px;
+    margin:8px;
+    color: white;
+    text-shadow: 1px 2px black;
+    text-align: center;
+    border-radius: 18px;
+}
+.box{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    border: 0;
+    
+}
+.box1{
+    background: red;
+    box-shadow: 2px 5px black;
+}
+.box2{
+    background: blue;
+    box-shadow: 2px 5px black;
+}
+.box3{
+    background: green;
+    box-shadow: 2px 5px black;
+}
+.box4{
+    background: yellow;
+    box-shadow: 2px 5px black;
+}
+.box5{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 50%;
+    height: 100%;
+}

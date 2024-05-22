@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+Body{
+    
+}
+h1{
+    font-size: 36px;
+    background: goldenrod;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+h2, h3, h4{
+    text-shadow: 2px 2px black;
+    
+    margin: 2px auto;
+    
+}
+.h5 {
+    background: orange;
+    text-shadow: 2px 2px black;
+    margin: 1px;
+    font-size: 14px;
+    
+}
+header{
+    background:goldenrod;
+    color: white;
+    border: 2px solid black;
+    padding: 8px 4px;
+    margin: 10px 10px;
+        
+}
+Section{
+    background: white;
+    margin: 10px auto;
+    padding:5px;
+    box-shadow: 2px 5px goldenrod;
+    text-align: justify;
+    
+}
+section p{
+    color: black;
+    font-size: 26px;
+    padding: 2px;
+}
+footer{
+     background:goldenrod;
+    color: white;
+    border: 2px solid black;
+    padding: 8px 4px;
+    margin: 10px 10px;
+}
+div{
+    padding:5px;
+    border: 1px;
+    margin:8px;
+    color: white;
+    text-align: center;
+    border-radius: 18px;
+}
+.box1{
+    background: goldenrod;
+    box-shadow: 2px 5px black;
+    margin: 1px auto;
+    width: 50%;
+}
+.box2{
+    background: Silver;
+    box-shadow: 2px 5px black;
+    margin: 1px auto;
+    width: 50%;
+}
+.box3{
+    background: red;
+    box-shadow: 2px 5px black;
+    margin: 1px auto;
+    width: 50%;
+}
+.box4{
+    background: orange;
+    box-shadow: 2px 5px black;
+    margin: 1px auto;
+    width: 50%;
+    
+    
+}
