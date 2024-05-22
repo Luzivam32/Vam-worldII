@@ -87,3 +87,9 @@ div{
     
     
 }
+.box5{
+    background: purple;git status
+    box-shadow: 2px 5px black;
+    margin: 1px auto;
+    width: 50%;
+}
